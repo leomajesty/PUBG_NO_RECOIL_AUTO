@@ -1,0 +1,68 @@
+{
+  "weapon_slot1": {
+    "top": 1325,
+    "left": 1940,
+    "width": 195,
+    "height": 100
+  },
+  "weapon_slot2": {
+    "top": 1245,
+    "left": 1940,
+    "width": 195,
+    "height": 100
+  },
+  "shot_set": {
+    "top": 1330,
+    "left": 970,
+    "width": 5,
+    "height": 3
+  },
+  "muzzle1": {
+    "top": 330,
+    "left": 1751,
+    "width": 66,
+    "height": 66
+  },
+  "grip1": {
+    "top": 330,
+    "left": 1887,
+    "width": 66,
+    "height": 66
+  },
+  "stock1": {
+    "top": 330,
+    "left": 2316,
+    "width": 66,
+    "height": 66
+  },
+  "scope1": {
+    "top": 152,
+    "left": 2114,
+    "width": 66,
+    "height": 66
+  },
+  "muzzle2": {
+    "top": 636,
+    "left": 1751,
+    "width": 66,
+    "height": 66
+  },
+  "grip2": {
+    "top": 636,
+    "left": 1887,
+    "width": 66,
+    "height": 66
+  },
+  "stock2": {
+    "top": 636,
+    "left": 2316,
+    "width": 66,
+    "height": 66
+  },
+  "scope2": {
+    "top": 459,
+    "left": 2114,
+    "width": 66,
+    "height": 66
+  }
+}

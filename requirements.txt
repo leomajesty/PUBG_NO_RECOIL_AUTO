@@ -1,6 +1,9 @@
 # pip install -r requirements.txt
 
 # base ----------------------------------------
-pyttsx3
+pyttsx3~=2.90
 pynput==1.6.8
 opencv-python>=4.2.0.34
+
+numpy~=1.19.5
+mss~=6.1.0

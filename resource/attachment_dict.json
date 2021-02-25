@@ -1,0 +1,27 @@
+{
+  "scope": {
+    "red_dot": 1,
+    "holo": 1,
+    "2X": 1.3,
+    "3X": 1.3,
+    "4X": 2,
+    "6X": 3
+  },
+  "grip": {
+    "thumb": 0.95,
+    "light": 1,
+    "triangle": 1,
+    "straight": 0.85,
+    "half": 0.92
+  },
+  "muzzle": {
+    "suppressor": 1,
+    "flash_hider": 0.9,
+    "compensator": 0.85
+  },
+  "stock": {
+    "smg_stock": 0.8,
+    "ar_stock": 1,
+    "sr_stock": 0.8
+  }
+}
