@@ -256,12 +256,11 @@ def play_sound(content):
 # -------------------------------------------------------------------
 # 程序入口
 def main():
-    # os.system("title Solder76 Smart")
-    # os.system("mode con cols=32 lines=5")
-    # print("Solder 76 Smart lite")
-    # print("version 1.0 beta")
+    os.system("title Solder76 Smart")
+    os.system("mode con cols=32 lines=5")
+    print("Solder 76 Smart lite")
+    print("version 1.0 beta")
 
-    root.mainloop()
     play_sound("Tactical visor activated. ")
     threads = [threading.Thread(target=switch_slot),
                threading.Thread(target=shot_set),
