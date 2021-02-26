@@ -30,6 +30,10 @@ i9 CPU 0.4%
 
 ~~内存占用不超过100MB~~ 200M左右
 
+1080P下载地址：
+链接：https://pan.baidu.com/s/1aJXZzXvZsNAB0SqZiBCUrQ 
+提取码：bmjd 
+
 # 免责申明
 
 ***使用此软件可能造成账号被封禁 作者概不承担责任 使用此软件自动接受此条款***
