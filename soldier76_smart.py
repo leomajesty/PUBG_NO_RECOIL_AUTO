@@ -261,7 +261,7 @@ def main():
     # print("Solder 76 Smart lite")
     # print("version 1.0 beta")
 
-    root.mainloop()
+    # root.mainloop() 可视化界面 TODO
     play_sound("Tactical visor activated. ")
     threads = [threading.Thread(target=switch_slot),
                threading.Thread(target=shot_set),
