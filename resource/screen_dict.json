@@ -1,13 +1,13 @@
 {
   "weapon_slot1": {
-    "top": 1325,
-    "left": 1940,
+    "top": 980,
+    "left": 1405,
     "width": 195,
     "height": 100
   },
   "weapon_slot2": {
-    "top": 1245,
-    "left": 1940,
+    "top": 910,
+    "left": 1405,
     "width": 195,
     "height": 100
   },
